@@ -282,7 +282,7 @@ Apollo Justice Ace Attorney
 253. Xenowerk Tactics
 254. Seedship
 255. Ravensword
-256. Новые околосталкеровские игры - Call of Zone. Project2609, порт зова припяти на 4пда и тд
+256. Новые околосталкеровские игры - Call of Zone, Project2609, порт зова припяти на 4пда и тд
 257. Heretic Gods
 258. Vengeance rpg
 259. Крах вампиров: начало
@@ -295,3 +295,7 @@ Apollo Justice Ace Attorney
 266. Театр плохих концовок
 267. Bladed fury
 268. Poppy Playtime Chapter 1
+269. Thief simulator
+270. Counter strike source 
+271. Hollow knight
+272. Absolute drift
